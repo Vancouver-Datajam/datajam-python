@@ -2,7 +2,7 @@
 
 # Intro to Data Analysis with Python
 
-## Vancouver Datajam 2020 Workshop
+## Vancouver Datajam 2023 Workshop
 
 This beginner level workshop will introduce data analysis with Python, focusing on Jupyter notebooks, working with data in Pandas, and simple plotting (Seaborn and Plotly). A familiarity with Python basics will help you get the most out of this workshop, but you do not need any prior experience with Pandas or any other libraries.
 
